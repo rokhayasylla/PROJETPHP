@@ -1,7 +1,7 @@
 <?php
 
 function main() {
-    echo "Hello, GitHub!";
+    echo "Hello, world!";
 }
 
 main();
